@@ -2,7 +2,7 @@
 
 ## 環境構築
 
-1. git clone git@github.com:a-nojiri/confirmation-test-2.git
+1. git clone git@github.com:a-nojiri/pigly-test-3.git
 2. DockerDesktopアプリを立ち上げる
 3. docker-compose up -d --build
    
@@ -44,5 +44,6 @@
 ・ 開発環境：http://localhost/  
 
 ・ phpMyAdmin：http://localhost:8080/　
+
 
 
