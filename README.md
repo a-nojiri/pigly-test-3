@@ -36,7 +36,7 @@
  ･ Nginx  
 
  ## ER図
-  ![ER図](./docs/er.png)　
+  　
  
 
  ## URL
@@ -44,6 +44,7 @@
 ・ 開発環境：http://localhost/  
 
 ・ phpMyAdmin：http://localhost:8080/　
+
 
 
 
