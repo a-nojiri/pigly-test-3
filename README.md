@@ -35,6 +35,10 @@
  
  ･ Nginx  
 
+## テストユーザー
+- Email: test@example.com
+- Password: password123
+
  ## ER図
   ![ER図](./er.png)　　
  
@@ -44,6 +48,7 @@
 ・ 開発環境：http://localhost/  
 
 ・ phpMyAdmin：http://localhost:8080/　
+
 
 
 
