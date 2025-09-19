@@ -49,6 +49,13 @@
 
 ・ phpMyAdmin：http://localhost:8080/　
 
+### 画面URL
+- 会員登録（STEP1）: http://localhost/register/step1
+- 体重データ入力（STEP2）: http://localhost/register/step2  
+- ログイン: http://localhost/login
+- 体重管理画面: http://localhost/weight_logs  
+
+
 
 
 
